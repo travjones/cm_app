@@ -1,0 +1,4 @@
+- fix loginpost/signuppost sql queries
+    - might want to alter db model for defaults
+- git init + setup github repo -> push
+- create db on dev-pg and connect

@@ -1,0 +1,44 @@
+body {
+	height: 95vh;
+}
+
+.u-v-align {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.u-h-align {
+	float: none !important;
+    margin: 0 auto !important;
+}
+
+.account-form-body {
+    background-color: #42729B;
+}
+
+.account-form-leg {
+    margin: auto;
+    padding-bottom: 15px;
+    color: #7e7e7e;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.account-form {
+    border: 1px solid #f6f6f6;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #f6f6f6;
+}
+
+.account-btn {
+    background-color: #2ecc71 !important;
+    border-color: #2ecc71 !important;
+    color: white !important;
+    font-size: 13px !important;
+}
+
+.account-btn:hover {
+    background-color: #42d17f;
+}
